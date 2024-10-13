@@ -1,7 +1,7 @@
 # Electric Vehicle Charging Patterns - Tableau Dashboard
 
 ## Summary
-In this project, a Tableau dashboard is created to understand and visualize charging patterns for electrical vehicles. The dashboard has been made dynamic so the user can toggle between different metrics to be displayed as well as filter on different parameters.
+In this project, a Tableau dashboard is created to understand and visualize charging patterns for electrical vehicles. The dashboard has been made dynamic so the user can toggle between different metrics as well as filter the data based on several parameters.
 
 The dashboard contains summarizing statistics as well as visualizations and graphs.
 
