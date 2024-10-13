@@ -18,10 +18,6 @@ The dataset includes 20 columns with information about each of the charging sess
 ## The Dashboard
 You can accesss the dashboard through the .twbx file in this repositroy. 
 
-Example images of the dashboard are displayed below
-
-![Full dashboard](Images/Full_dashboard.png "Full dashboard") 
-
-
+Example image of the dashboard in use is displayed below
 
 ![Dashboard with filters](Images/Dashboard_with_filters.png "Dashboard with filters") 
